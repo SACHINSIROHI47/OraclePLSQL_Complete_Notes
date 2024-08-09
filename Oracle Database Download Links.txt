@@ -1,0 +1,8 @@
+1) Download Oracle Database 21c (21.3) for Microsoft Windows x64 (64-bit)
+
+https://www.oracle.com/database/technologies/oracle21c-windows-downloads.html
+
+2) SQL Developer 21 Downloads 
+
+https://www.oracle.com/database/sqldeveloper/technologies/download/
+
